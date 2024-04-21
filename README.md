@@ -1,4 +1,4 @@
-# hw2
+# HW2
 CSS 545 MOBILE COMPUTING
 
 Steps to run the application:
